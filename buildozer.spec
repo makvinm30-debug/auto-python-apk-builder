@@ -11,7 +11,7 @@ fullscreen = 0
 android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
 android.api = 31
 android.min_api = 21
-android.sdk = 31
+android.accept_sdk_license = True
 
 
 [buildozer]
